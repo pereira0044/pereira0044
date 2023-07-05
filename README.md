@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Gabriel👋
 
-🎓 Graduado em análise e desenvolvimento de sistemas na Unopar em 2023
+🎓 Graduado em análise e desenvolvimento de sistemas na Unopar em 2023.
 
 🌱 Estou frequentemente aprendendo: Java, JavaScript, MySQL, React, Vue.JS, Python, HTML, CSS e SASS.
 
-📫 Minha localidade: Arapongas (PR)
+📫 Minha localidade: Arapongas (PR).
 
 <div> 
 <hr style="color: red; height: 1px; border-style: dashed;">
