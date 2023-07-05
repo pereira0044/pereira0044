@@ -31,6 +31,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
+![snake gif](https://github.com/pereira0044/pereira0044/blob/output/github-contribution-grid-snake.svg)
 
 
 
